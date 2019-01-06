@@ -1,4 +1,4 @@
-package com.superhero.getusercontactsfromphone;
+package com.contact.getusercontactsfromphone;
 
 import org.junit.Test;
 

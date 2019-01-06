@@ -1,4 +1,4 @@
-package com.superhero.getusercontactsfromphone;
+package com.contact.getusercontactsfromphone;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
