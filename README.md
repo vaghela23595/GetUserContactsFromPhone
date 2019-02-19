@@ -1,2 +1,1 @@
-# GetUserContactsFromPhone
-initial commit
+# Get Contacts From Phone
