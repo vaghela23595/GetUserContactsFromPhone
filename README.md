@@ -1,6 +1,6 @@
 # Get Contacts From Phone
                   
-In this project get all contacts number with name from phone using content  provider.implement a runtime READ CONTACT Permission ask to user when phone version is Marshmallow or above version.
+In this project get all contacts number with name from phone using content  provider.implement a runtime READ CONTACT Permission ask to user when android version is Marshmallow or above.
 
 Testing:
  
